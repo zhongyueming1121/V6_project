@@ -1,7 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d390e637-3881-42ad-9278-aae6c2b89efb" name="Default" comment="" />
+    <list default="true" id="d390e637-3881-42ad-9278-aae6c2b89efb" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT/WEB-INF/lib/activation-1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT/WEB-INF/lib/c3p0-0.9.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT/WEB-INF/lib/commons-beanutils-1.8.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT/WEB-INF/lib/commons-codec-1.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT/WEB-INF/lib/commons-dbcp-1.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT/WEB-INF/lib/commons-fileupload-1.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT/WEB-INF/lib/commons-io-2.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT/WEB-INF/lib/commons-pool-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT/WEB-INF/lib/dubbo-2.5.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT/WEB-INF/lib/ehcache-core-2.5.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT/WEB-INF/lib/fastjson-1.2.22.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.8.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT/WEB-INF/lib/jackson-core-2.8.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT/WEB-INF/lib/jackson-core-asl-1.9.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT/WEB-INF/lib/jackson-databind-2.8.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT/WEB-INF/lib/jackson-mapper-asl-1.9.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT/WEB-INF/lib/javaee-api-7.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT/WEB-INF/lib/javassist-3.15.0-GA.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT/WEB-INF/lib/javax.mail-1.5.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT/WEB-INF/lib/jline-0.9.94.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT/WEB-INF/lib/log4j-1.2.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT/WEB-INF/lib/mybatis-3.2.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT/WEB-INF/lib/mybatis-spring-1.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.29.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT/WEB-INF/lib/netty-3.10.5.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT/WEB-INF/lib/netty-3.2.5.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT/WEB-INF/lib/quartz-2.2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT/WEB-INF/lib/shiro-core-1.3.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT/WEB-INF/lib/shiro-ehcache-1.3.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT/WEB-INF/lib/shiro-spring-1.3.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT/WEB-INF/lib/shiro-web-1.3.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT/WEB-INF/lib/slf4j-api-1.7.18.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT/WEB-INF/lib/slf4j-log4j12-1.7.18.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-4.3.10.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-4.3.10.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT/WEB-INF/lib/spring-context-4.3.10.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT/WEB-INF/lib/spring-context-support-4.3.10.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT/WEB-INF/lib/spring-core-4.3.10.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-4.3.10.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT/WEB-INF/lib/spring-jdbc-4.3.10.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT/WEB-INF/lib/spring-oxm-4.3.10.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT/WEB-INF/lib/spring-test-4.3.10.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT/WEB-INF/lib/spring-tx-4.3.10.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT/WEB-INF/lib/spring-web-4.3.10.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-4.3.10.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT/WEB-INF/lib/zkclient-0.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/diyou_admin-1.0-SNAPSHOT/WEB-INF/lib/zookeeper-3.4.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diyou_admin/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/diyou_admin/target/" />
@@ -63,7 +117,7 @@
         <entry file="file://$PROJECT_DIR$/diyou_admin/web/WEB-INF/dubbo/dubbo-user.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="308">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -112,6 +166,9 @@
         <option value="spring-beans.schema" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -177,6 +234,7 @@
     <option name="width" value="1456" />
     <option name="height" value="876" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <hideEmptyPackages ProjectPane="false" />
@@ -325,19 +383,19 @@
       <workItem from="1532362286206" duration="3295000" />
       <workItem from="1532523278030" duration="659000" />
       <workItem from="1532532245149" duration="6322000" />
-      <workItem from="1532567875524" duration="629000" />
+      <workItem from="1532567875524" duration="1061000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18827000" />
+    <option name="totallyTimeSpent" value="19259000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.32995737" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="CDI" order="3" />
       <window_info id="Capture Tool" order="2" />
@@ -353,11 +411,11 @@
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32967034" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32893288" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32967034" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26332623" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26332623" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="3" />
@@ -648,7 +706,7 @@
     <entry file="file://$PROJECT_DIR$/diyou_admin/web/WEB-INF/dubbo/dubbo-user.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
