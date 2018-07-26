@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="diyou_mobile:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/diyou_mobile_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="diyou_mobile/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="diyou_mobile" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
